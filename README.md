@@ -1,0 +1,1 @@
+This is a python package project which was developed to understand the basics of package development, This package helps you to visualize data under two distribution forms namely Gaussian and Binomial
